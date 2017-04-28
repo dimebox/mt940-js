@@ -38,5 +38,4 @@ jspm_packages
 .idea
 typings
 DS_Store
-lib
 /.coveralls.yml
